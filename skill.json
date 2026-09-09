@@ -1,0 +1,13 @@
+{
+  "name": "genpark-reservoir-computing-echo-state-network-skill",
+  "version": "1.0.0",
+  "description": "Echo State Network (ESN) reservoir computing framework mapping temporal sequences into high-dimensional non-linear dynamical recurrent states.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "reservoir-computing",
+    "echo-state-network",
+    "recurrent-neural-network",
+    "time-series"
+  ]
+}
