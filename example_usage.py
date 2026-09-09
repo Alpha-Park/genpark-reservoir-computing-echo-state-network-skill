@@ -1,3 +1,4 @@
+import math
 from client import EchoStateNetwork
 
 def main():
